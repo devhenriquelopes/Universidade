@@ -5,7 +5,7 @@ public class UniversidadeApp {
     public static void main(String[] args) {
         UniversidadePolo universpolo1 = new UniversidadePolo("Jorge Amado","Centro","100");
         UniversidadeInterior universinterior1 = new UniversidadeInterior("Juazeiro","Alto Cruzeiro",125000.0f);
-scan in = new Scanner(System.in);
+scanner in=new Scanner(System.in);
 
         int cadastro=0;
         while(cadastro==0){
